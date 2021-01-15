@@ -17,7 +17,7 @@ void ahorros_DelAno();
 int main(){
 
 
-//Bloque de instrucciones
+//Declaracion de variables
 
 
 	#define LIMITE 12 //12 meses del ano
@@ -25,7 +25,7 @@ int main(){
 	char op='n';
 	unsigned int meses=1;
 
-
+//bloque de instrucciones
     void ahorros_DelAno();{
 	do {
 
