@@ -1,4 +1,4 @@
-*/ Practica#12						Cruz Martinez Jesus Alberto
+/* Practica#12						Cruz Martinez Jesus Alberto
     Fecha de entrega: 15 de enero 
 */
 
